@@ -69,14 +69,17 @@ particular things for your own use, you can train SVM by using LBP_SVM.py.
 ## Examples
 ```
 $ python run.py -d -f ./demo/demo1.pdf -o ./result
+```
 result:
 ![alt tag](https://github.com/HaojieYuan/blot_cp_detector/blob/master/demo_result/detectdemo1-000.png)
-
+```
 $ python detect.py -d -i ./demo/demo2.ppm -o ./result
+```
 result:
 ![alt tag](https://github.com/HaojieYuan/blot_cp_detector/blob/master/demo_result/detectdemo2.png)
-
+```
 $ python remove_text.py -d -i ./demo/demo3.jpg -o ./result
+```
 result:
 ![alt tag](https://github.com/HaojieYuan/blot_cp_detector/blob/master/demo_result/puredemo3.png)
 ```
