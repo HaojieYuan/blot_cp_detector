@@ -82,7 +82,7 @@ $ python remove_text.py -d -i ./demo/demo3.jpg -o ./result
 ```
 result:
 ![alt tag](https://github.com/HaojieYuan/blot_cp_detector/blob/master/demo_result/puredemo3.png)
-```
+
 # Contact me
 ```
 email address:  haojie.d.yuan@gmail.com
